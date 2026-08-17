@@ -73,11 +73,12 @@ print(f"\nPredicted marks for {hours} hours of study = {predicted_marks[0]:.2f}"
 
 ```
 
+
 ## Output:
 
 <img width="652" height="352" alt="image" src="https://github.com/user-attachments/assets/356afcc7-4db4-4c20-997e-045eb66129a7" />
 
-<img width="1098" height="733" alt="image" src="https://github.com/user-attachments/assets/da60d7fb-5b22-4a6d-b38e-42e764e0a3bc" />
+<img width="475" height="178" alt="image" src="https://github.com/user-attachments/assets/5d189b0e-2a3d-4848-8511-0c7ed8771746" />
 
 <img width="1022" height="691" alt="image" src="https://github.com/user-attachments/assets/0a76f88c-b31d-454f-bef0-a9fe34575997" />
 
